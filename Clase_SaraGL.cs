@@ -8,5 +8,14 @@ namespace PracticaCV_SaraGL
 {
     internal class Clase_SaraGL
     {
+        //CONSTANTES
+
+        //MIEMBROS PRIVADOS
+
+        //CONSTRUCTORES
+
+        //PROPIEDADES
+
+        //MÉTODOS
     }
 }
