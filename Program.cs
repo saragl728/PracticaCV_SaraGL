@@ -15,6 +15,8 @@
             //PROCESO
 
             //SALIDA
+            Console.WriteLine("Mi nombre es SaraGL");
+            //Impresión de mi nombre: SaraGL
         }
     }
 }
